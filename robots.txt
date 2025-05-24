@@ -1,0 +1,5 @@
+user-agent: *
+Allow: /
+
+Sitemap:
+https://wiz7asco.github.io/sitemap.xml
